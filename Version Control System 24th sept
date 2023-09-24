@@ -2,3 +2,21 @@ Version Control System
 Git ---> version control system (VCS)
 Cithhub ---> Source code management/Online code repo (SCM)
 
+TWO TYPES OF VCS
+  1. Centralized VCS
+  2. Distributed VCS
+
+WHY VCS
+    1. To track changes
+    2. To retrieve files and backups from accidental deletes
+
+COMMANDS
+    ls -la ===> List hidden files and folders and to check whether folder is been tracked by git
+    LS -L ===> WD
+    git ls-files ===> whether my file is in the SA/LR
+    git status ----> to confirm SA/LR
+
+UNTRACKED ----> Means file is in the WD
+CHANGES TO BE COMMITTED ---> means file is in SA
+WORKING TREE CLEAN -----> Means its in the LR
+
